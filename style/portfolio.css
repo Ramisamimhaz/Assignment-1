@@ -163,4 +163,16 @@ footer input[type="text"], footer input[type="email"], footer textarea{
   margin-bottom: 24px;
   border: none;
 }
-    
+    /* last style */
+    .last-title{
+      font-size: 100px;
+      font-weight: bolder;
+      text-align: center;
+    }
+
+    .last-description{
+      font-size: 24px;
+      font-weight: normal;
+      color: #757575;
+      text-align: center;
+    }
